@@ -1,0 +1,3 @@
+Run omega.py
+- it will execute sigma.py and then omega.py. the .img and .pkl will be stored in the same folder. 
+- For executing those img and pkl files, nifty.py should be run.
